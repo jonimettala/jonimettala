@@ -1,3 +1,5 @@
 ### hi 👋
 
-maybe some day this readme file is eager enough to become something interesting.
+i'm Joni and this is my profile.
+
+you can follow me on polywork: [joni.wtf](https://joni.wtf/)
